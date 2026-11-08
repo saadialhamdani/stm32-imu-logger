@@ -4,3 +4,5 @@ Release/
 *.d
 *.elf
 *.map
+Src/main.exe
+*.launch
